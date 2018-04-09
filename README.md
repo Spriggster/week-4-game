@@ -34,3 +34,7 @@ In this assignment, you'll create another fun and interactive game for web brows
 
 
 <img width="800" alt="Crystals Collector Game" src="https://kbowen200247.github.io/week-4-game/assets/images/crystalscollector_gamejavascript.png">
+
+
+
+<h3> <a href="https://spriggster.github.io/Crystal-Collecter-Game-JQuery/.> [Clicky for websity] </a> <h3>
